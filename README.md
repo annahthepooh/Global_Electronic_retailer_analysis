@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Assets/proj2 (4).png" alt="Project Banner" width="100%">
+</p>
+
 # Retail Sales Performance and Customer Insights Analysis
 
 ## Problem Statement
